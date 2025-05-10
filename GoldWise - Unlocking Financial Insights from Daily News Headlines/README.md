@@ -1,8 +1,5 @@
 # GoldWise---Unlocking-Financial-Insights-from-Daily-News-Headlines
 GoldWise - A data analytics project that analyzes the relationship between news headlines and gold price movements using NLP, machine learning, and time series analysis. It includes sentiment scoring, topic modeling, and volatility detection to uncover critical financial insights.
-# GoldWise - Unlocking Financial Insights from Daily News Headlines
-
-![GoldWise Banner](https://via.placeholder.com/1200x400.png?text=GoldWise+-+Financial+Insights+from+News+Headlines)
 
 ## 📌 Project Overview
 
